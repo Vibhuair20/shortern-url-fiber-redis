@@ -1,0 +1,17 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go cache
+bin/
+vendor/
+
+# IDE/files
+.vscode/
+.idea/
+
+# Env files
+.env
